@@ -1,0 +1,7 @@
+- id: commit-message-format
+  name: Enforce Commit Message Style
+  language: python
+  always_run: true
+  fail_fast: true
+  pass_filenames: false
+  description: Checks that the commit message follows a certain style
